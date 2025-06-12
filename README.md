@@ -24,7 +24,7 @@
 
 I am a dynamic and driven Full-Stack Developer from Brazil, with a tech journey that began in May 2019. I specialize in crafting robust, scalable digital solutions, from practical web applications and APIs to architecting advanced AI systems. My commitment is to develop high-impact solutions by integrating Artificial Intelligence, optimizing algorithms, and ensuring software quality.
 
-I am fascinated by the potential of multimodal AI and strive to contribute to tools that enhance security and quality governance. I continuously explore new technologies to expand my capabilities and share my work with the AI community, including models and datasets on [Hugging Face](https://huggingface.co/emanuellcs).
+I am fascinated by the potential of multimodal AI and strive to contribute to tools that enhance security and quality governance. I continuously explore new technologies to expand my capabilities and share my work with the AI community.
 
 -   🚀 Actively working as a **Freelance Full-Stack Developer**, tackling diverse and complex AI/ML challenges.
 -   🧠 Focused on designing architectures and developing innovative **Multimodal AI Systems**.
