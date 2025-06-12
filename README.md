@@ -15,9 +15,6 @@
     <a href="mailto:emanuellzr01@outlook.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://huggingface.co/emanuellcs" target="_blank">
-      <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models%20&%20Datasets-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/>
-    </a>
   </p>
 </div>
 
@@ -149,7 +146,6 @@ I'm always excited to discuss new collaborations, innovative ideas, or opportuni
   <a href="https://linkedin.com/in/emanuel-lázaro-custódio-silva-2a8130362" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-emanuellcs-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Emanuel Lázaro LinkedIn" /></a>
   <a href="mailto:emanuellzr01@outlook.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Emanuel Lázaro Email" /></a>
   <a href="https://emanuellcs.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-emanuellcs.vercel.app-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Emanuel Lázaro Portfolio" /></a>
-  <a href="https://huggingface.co/emanuellcs" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-emanuellcs-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Emanuel Lázaro Hugging Face"/></a>
 </p>
 
 ---
