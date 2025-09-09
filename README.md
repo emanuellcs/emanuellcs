@@ -1,4 +1,4 @@
-<h1 align="center">Emanuel Lázaro | T-Shaped Full StackSoftware Engineer</h1>
+<h1 align="center">Emanuel Lázaro | T-Shaped Full Stack Software Engineer</h1>
 
 <div align="center">
 
