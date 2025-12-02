@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Emanuel%20Lázaro&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Emanuel%20Lázaro&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20|%20SE%20and%20CS%20Student&descAlignY=55&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00ADD8&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Node.js+%7C+Go+%7C+Python+%7C+Java+%7C+C%23;Building+Scalable+Systems;Cloud+Native+Architecture;AI%2FML+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00ADD8&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Engineer;Node.js+%7C+Go+%7C+Python+%7C+Java+%7C+C%23;Building+Scalable+Systems;Cloud+Native+Architecture;AI%2FML+Enthusiast)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://emanuellcs.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-00ADD8?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
@@ -22,7 +22,8 @@
 
 ```typescript
 const emanuel = {
-    education: "Software Engineering & Computer Science Student (2025-2029)",
+    role: "Full Stack Software Engineer",
+    education: "B.Sc. Software Engineering & Computer Science (Double Degree)",
     location: "Mucambo, Brazil 🇧🇷",
     focus: "Full Stack Development & Cloud-Native Architecture",
     currentWork: [
@@ -30,7 +31,7 @@ const emanuel = {
         "Exploring microservices architecture",
         "Deploying to multi-cloud environments"
     ],
-    interests: ["Web Development", "Cloud Computing", "AI/ML", "DevOps"],
+    interests: ["Web Development", "Cloud Computing", "AI/ML", "Game Engine Dev"],
     motto: "Code that scales, maintains, and delivers value"
 };
 ```
@@ -47,6 +48,14 @@ const emanuel = {
 - 🔐 Implement **secure authentication** systems
 - 🤖 Develop **ML models** with PyTorch & TensorFlow
 
+### 🌱 Exploration & Technical Hobbies
+
+In addition to full stack and AI/ML, I use **Game Development** as a multidisciplinary laboratory. In my spare time, I create engines and games with **C++** and **C#**, consolidating the fundamentals of Computer Science by combining physics, mathematics, logic, and optimization in projects that expand my engineering skills.
+
+<a href="https://gitlab.com/emanuellcs">
+  <img src="https://img.shields.io/badge/Check_my_Games_&_Engines_on_GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Games"/>
+</a>
+
 <br clear="right"/>
 
 ---
@@ -61,6 +70,7 @@ const emanuel = {
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 
@@ -183,9 +193,9 @@ const emanuel = {
       <br><sub>PyTorch, TensorFlow, HF</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/docker.png" width="60px" alt="DevOps"/>
-      <br><b>CI/CD Pipelines</b>
-      <br><sub>Docker, K8s, GitHub Actions</sub>
+      <img src="https://img.icons8.com/fluency/96/000000/console.png" width="60px" alt="Game Dev"/>
+      <br><b>Game Engines & CS</b>
+      <br><sub>C++, C#, Physics, Math</sub>
     </td>
   </tr>
 </table>
@@ -201,6 +211,7 @@ const currentFocus = {
     architecture: ["Microservices", "Event-Driven Systems", "Service Mesh"],
     cloudNative: ["Kubernetes Orchestration", "Multi-Cloud Deployments", "Infrastructure as Code"],
     aiMl: ["Large Language Models", "MLOps", "Model Deployment Pipelines"],
+    gameDev: ["Physics Engines", "Graphics Programming", "ECS Architecture"],
     practices: ["Clean Architecture", "Domain-Driven Design", "Test-Driven Development"]
 };
 ```
@@ -214,8 +225,8 @@ const currentFocus = {
 | 🎯 Position | 🔧 Focus Areas | 📍 Location |
 |-------------|----------------|-------------|
 | **Internship** | Full Stack Development, Backend Engineering | Remote / On-site |
-| **Junior Developer** | Cloud Engineering, DevOps, AI/ML | Open to Relocation |
-| **Open Source Collaboration** | Web Development, Developer Tools | Worldwide |
+| **Junior Engineer** | Cloud Engineering, DevOps, AI/ML | Open to Relocation |
+| **Open Source Collaboration** | Web Development, Developer Tools, Game Dev | Worldwide |
 
 </div>
 
