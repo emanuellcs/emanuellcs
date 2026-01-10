@@ -50,7 +50,7 @@ const emanuellcs = {
 
 ### 🌱 Exploration & Technical Hobbies
 
-In addition to full stack and AI/ML, I use **Game Development** as a multidisciplinary laboratory. In my spare time, I create engines and games with **C**, **C++** and **C#**, consolidating the fundamentals of Computer Science by combining physics, mathematics, logic, and optimization in projects that expand my engineering skills.
+In addition to full stack and AI/ML, I use **Game Development** as a multidisciplinary laboratory. In my spare time, I create engines and games with **C/C++**, **C#** and **Rust**, consolidating the fundamentals of Computer Science by combining physics, mathematics, logic, and optimization in projects that expand my engineering skills.
 
 <a href="https://gitlab.com/emanuellcs">
   <img src="https://img.shields.io/badge/Check_my_Games_&_Engines_on_GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Games"/>
@@ -70,8 +70,9 @@ In addition to full stack and AI/ML, I use **Game Development** as a multidiscip
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 
