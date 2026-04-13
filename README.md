@@ -2,9 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f2027,40:00bfa5,100:0f2027&text=Emanuel%20Lázaro&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Data%20Scientist%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=17&animation=fadeIn&stroke=00bfa5&strokeWidth=1)
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1000&color=00BFA5&center=true&vCenter=true&width=980&lines=Full-Stack+%26+Backend+Systems+Engineer;TypeScript+%7C+Java+%7C+Python+%7C+Go;Spring+Boot+%7C+NestJS+%7C+React+%7C+Next.js;Cloud-Native+Architecture+%7C+Kubernetes+%7C+AWS;Clean+Architecture+%7C+DDD+%7C+SOLID;Low-Level+Systems+%7C+Game+Engines+%7C+Rust+%2F+C%2B%2B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1000&color=00BFA5&center=true&vCenter=true&width=980&lines=Full-Stack+%26+Backend+Engineer.;Data+Scientist+%26+ML+Engineer.;TypeScript,+Java,+Python+%26+Go+developer.;Spring+Boot,+NestJS+%26+React+practitioner.;Cloud-Native+systems+builder.;Clean+Architecture+%26+DDD+advocate.;WebGL,+WebGPU+%26+3D+Graphics+enthusiast.;DevOps+%26+Infrastructure+(AWS,+Docker,+K8s).;Database+specialist+(SQL,+NoSQL,+Redis).;AI%2FML+practitioner+(PyTorch,+TensorFlow).;Systems+%26+Low-Level+enthusiast+(Rust,+C%2B%2B,+C).;Building+scalable,+distributed+architectures.;Crafting+high-performance+REST+%26+gRPC+APIs.;Passionate+about+observability+and+system+resilience.;Exploring+the+bleeding+edge+of+web+technologies.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -38,9 +36,13 @@
 
 </div>
 
----
+<br/>
+
+<div align="center">
 
 ## 👨‍💻 About Me
+
+</div>
 
 <img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
@@ -52,7 +54,7 @@ My primary ecosystems are:
 - **Java:** Spring Boot, Spring Cloud, JPA/Hibernate — enterprise backends
 - **Python & Go:** data workflows, ML, automation, and concurrency-critical services
 
-Beyond my professional focus, I am a passionate hobbyist in **low-level systems and game engine development** using **C, C++, C#, and Rust** — exploring memory management, concurrency primitives, and real-time rendering.
+Beyond my professional focus, I am a passionate hobbyist in **low-level systems and game engine development** using **C, C++, C#, and Rust** — exploring memory management, concurrency primitives, and real-time rendering with **WebGL, WebGPU, and WGSL**.
 
 I actively compete on **Kaggle**, publish models on **Hugging Face**, and pursue certifications in cloud-native technologies. Currently seeking **internship** and **junior engineering** opportunities to contribute to real systems and grow inside strong engineering teams.
 
@@ -72,7 +74,7 @@ const emanuellcs = {
       "Enterprise Java / Spring Boot backends",
       "Cloud-native & DevOps infrastructure",
       "AI/ML experiments & Kaggle workflows",
-      "Low-level systems, game engines (C, C++, C#, Rust) — hobby projects",
+      "Low-level systems, game engines (C, C++, C#, Rust) & Real-time rendering (WebGPU/WGSL)",
     ],
   },
 
@@ -97,9 +99,13 @@ const emanuellcs = {
 };
 ```
 
----
+<br/>
+
+<div align="center">
 
 ## 🏛️ Engineering Philosophy
+
+</div>
 
 I build software guided by a consistent set of principles that prioritize long-term correctness over short-term convenience.
 
@@ -113,31 +119,31 @@ I build software guided by a consistent set of principles that prioritize long-t
 
 **Systems thinking** — failure modes, backpressure, caching strategy, and event-driven decomposition are first-class design concerns, not retrofit solutions.
 
-<details>
-<summary><b>⚙️ Engineering Checklist — Quality, Security & Delivery</b></summary>
-<br/>
+### ⚙️ Engineering Checklist — Quality, Security & Delivery
 
 **API Design**
-- Versioning strategy, input validation, standardized error contracts
-- Rate limiting, throttling, and observability via structured logging and distributed tracing
+- [x] Versioning strategy, input validation, standardized error contracts
+- [x] Rate limiting, throttling, and observability via structured logging and distributed tracing
 
 **Performance**
-- Profiling hot paths, pragmatic multi-layer caching, index optimization
-- Async processing via Kafka / RabbitMQ for long-running operations
+- [x] Profiling hot paths, pragmatic multi-layer caching, index optimization
+- [x] Async processing via Kafka / RabbitMQ for long-running operations
 
 **Security**
-- Least-privilege design; secrets managed via Vault or AWS Secrets Manager
-- OWASP Top 10 awareness; JWT/OAuth2 with Spring Security or Passport.js
+- [x] Least-privilege design; secrets managed via Vault or AWS Secrets Manager
+- [x] OWASP Top 10 awareness; JWT/OAuth2 with Spring Security or Passport.js
 
 **Delivery**
-- CI/CD via GitHub Actions; containerized runtimes; reproducible environments
-- Semantic versioning, rollback strategies, and Kubernetes health probes
+- [x] CI/CD via GitHub Actions; containerized runtimes; reproducible environments
+- [x] Semantic versioning, rollback strategies, and Kubernetes health probes
 
-</details>
+<br/>
 
----
+<div align="center">
 
 ## 🗺️ Reference Architecture
+
+</div>
 
 ```mermaid
 flowchart LR
@@ -166,11 +172,11 @@ flowchart LR
   K8s --> SGO
 ```
 
----
-
-## 🛠️ Full Tech Stack
+<br/>
 
 <div align="center">
+
+## 🛠️ Full Tech Stack
 
 ### 💻 Languages
 
@@ -181,7 +187,7 @@ flowchart LR
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+<br/>
 
 ### 🎨 Frontend Development
 
@@ -191,8 +197,10 @@ flowchart LR
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
----
+<br/>
 
 ### ☕ Java / Spring Ecosystem
 
@@ -204,7 +212,7 @@ flowchart LR
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
----
+<br/>
 
 ### ⚙️ Backend, APIs & Messaging
 
@@ -218,7 +226,7 @@ flowchart LR
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
----
+<br/>
 
 ### ☁️ Cloud, DevOps & Infrastructure
 
@@ -233,7 +241,7 @@ flowchart LR
 ![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 
----
+<br/>
 
 ### 💾 Databases & Caching
 
@@ -243,7 +251,7 @@ flowchart LR
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
----
+<br/>
 
 ### 🤖 AI / ML & Data Science
 
@@ -255,7 +263,7 @@ flowchart LR
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
----
+<br/>
 
 ### 🦀 Hobby: Low-Level & Game Engine Development
 
@@ -263,18 +271,22 @@ flowchart LR
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=CE422B)
+![WebGPU](https://img.shields.io/badge/WebGPU-FF4500?style=for-the-badge&logo=webgl&logoColor=white)
+![WGSL](https://img.shields.io/badge/WGSL-4285F4?style=for-the-badge&logoColor=white)
 
 > Memory management, concurrency primitives, ECS patterns, and real-time rendering — explored as a passion outside my primary professional stack.
 
 </div>
 
----
+<br/>
+
+<div align="center">
 
 ## 📋 Stack at a Glance
 
 | Domain | Primary Technologies | Notes |
 |:---|:---|:---|
-| **Frontend** | React, Next.js (SSR/ISR/RSC) | TypeScript, Tailwind CSS, Vite |
+| **Frontend** | React, Next.js (SSR/ISR/RSC), WebGL | TypeScript, Tailwind CSS, Three.js |
 | **Backend (TS)** | NestJS, Express.js | REST, GraphQL, gRPC, WebSockets |
 | **Backend (Java)** | Spring Boot, Spring Cloud | JPA/Hibernate, Spring Security, Maven/Gradle |
 | **Messaging** | Apache Kafka, RabbitMQ | Event-driven, async workflows |
@@ -283,12 +295,13 @@ flowchart LR
 | **AI/ML** | PyTorch, TensorFlow, Hugging Face | Computer Vision, NLP, Kaggle competitions |
 | **Systems (Hobby)** | C, C++, C#, Rust | Game engines, renderers, low-level design |
 
----
+<br/>
 
 ## ☕ Java & Spring Ecosystem — Deep Dive
 
-<details>
-<summary><b>What I build with the Spring ecosystem</b></summary>
+</div>
+
+<b>What I build with the Spring ecosystem</b>
 <br/>
 
 **Spring Boot**
@@ -312,8 +325,6 @@ flowchart LR
 **Testing**
 - Unit tests with JUnit 5 + Mockito
 - Integration tests with `@SpringBootTest` and Testcontainers
-
-</details>
 
 ```java
 @RestController
@@ -339,9 +350,13 @@ public class ProjectController {
 }
 ```
 
----
+<br/>
+
+<div align="center">
 
 ## 🧠 AI / ML & Data Science
+
+</div>
 
 I compete on **Kaggle** to benchmark models, stress-test feature engineering pipelines, and validate applied ML workflows against real-world data distributions.
 
@@ -353,11 +368,11 @@ I compete on **Kaggle** to benchmark models, stress-test feature engineering pip
 - Fine-tuning and deploying models from **Hugging Face Hub**
 - Studying state-of-the-art architectures and modern training techniques
 
----
-
-## 📊 GitHub Statistics
+<br/>
 
 <div align="center">
+
+## 📊 GitHub Statistics
 
 <img height="180em" src="https://emanuellcs-ghrs.vercel.app/api?username=emanuellcs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00bfa5&icon_color=00bfa5&text_color=c9d1d9&border_color=30363d" alt="GitHub Stats"/>
 &nbsp;
@@ -377,21 +392,21 @@ I compete on **Kaggle** to benchmark models, stress-test feature engineering pip
 
 </div>
 
----
-
-## 📈 Contribution Activity
+<br/>
 
 <div align="center">
+
+## 📈 Contribution Activity
 
 [![Emanuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=emanuellcs&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00bfa5&line=00bfa5&point=ffffff&area=true&area_color=00bfa5)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
----
-
-## 💼 Open To Opportunities
+<br/>
 
 <div align="center">
+
+## 💼 Open To Opportunities
 
 | Role | Focus Areas | What I Bring |
 |:---:|:---:|:---:|
@@ -402,11 +417,11 @@ I compete on **Kaggle** to benchmark models, stress-test feature engineering pip
 
 > I am especially interested in teams that value **engineering craftsmanship**, **clear system design**, and **continuous learning** — whether in TypeScript, Java, Go, or Python-based stacks.
 
----
-
-## 📫 Let's Connect
+<br/>
 
 <div align="center">
+
+## 📫 Let's Connect
 
 <a href="https://emanuellcs.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Site-00bfa5?style=for-the-badge&logoColor=white" alt="Portfolio"/>
@@ -444,6 +459,6 @@ I compete on **Kaggle** to benchmark models, stress-test feature engineering pip
 
 *Building scalable systems with clean interfaces, robust backends, and measurable outcomes.*
 
-</div>
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00bfa5,100:0f2027&height=140&section=footer)
+
+</div>
