@@ -374,9 +374,9 @@ I compete on **Kaggle** to benchmark models, stress-test feature engineering pip
 
 ## 📊 GitHub Statistics
 
-<img height="180em" src="https://emanuellcs-ghrs.vercel.app/api?username=emanuellcs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00bfa5&icon_color=00bfa5&text_color=c9d1d9&border_color=30363d" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuellcs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00bfa5&icon_color=00bfa5&text_color=c9d1d9&border_color=30363d" alt="GitHub Stats"/>
 &nbsp;
-<img height="180em" src="https://emanuellcs-ghrs.vercel.app/api/top-langs/?username=emanuellcs&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0d1117&title_color=00bfa5&text_color=c9d1d9&border_color=30363d" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellcs&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0d1117&title_color=00bfa5&text_color=c9d1d9&border_color=30363d" alt="Top Languages"/>
 
 </div>
 
@@ -388,7 +388,7 @@ I compete on **Kaggle** to benchmark models, stress-test feature engineering pip
 
 <div align="center">
 
-<img src="https://emanuellcs-ghpt.vercel.app/?username=emanuellcs&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=emanuellcs&theme=tokyonight&no-frame=true&column=7&margin-w=6" alt="GitHub Trophies"/>
 
 </div>
 
