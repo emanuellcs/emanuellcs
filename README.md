@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=310&color=0:020617,35:0F172A,65:00BFA5,100:020617&text=Emanuel%20L%C3%A1zaro&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20AI%2FML%20Engineer&descAlignY=58&descSize=18&animation=fadeIn&stroke=00BFA5&strokeWidth=1" alt="Header banner: Emanuel Lázaro" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=310&color=0:020617,25:004D40,55:00BFA5,85:00BFA5,100:0F172A&text=Emanuel%20L%C3%A1zaro&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20AI%2FML%20Engineer&descAlignY=58&descSize=18&animation=fadeIn&stroke=00BFA5&strokeWidth=1" alt="Header banner: Emanuel Lázaro" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00BFA5&center=true&vCenter=true&width=1000&lines=Engineering+reliable+software+systems.;Designing+clean+APIs%2C+interfaces%2C+and+data+workflows.;Building+across+frontend%2C+backend%2C+cloud%2C+and+AI%2FML.;Transforming+complex+requirements+into+maintainable+architecture.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00BFA5&center=true&vCenter=true&width=1000&lines=Engineering+reliable+software+systems.;Designing+clean+APIs%2C+interfaces%2C+and+data+workflows.;Building+across+frontend%2C+backend%2C+cloud%2C+and+AI%2FML.;Transforming+complex+requirements+into+maintainable+architecture.;Architecting+scalable+MLOps+pipelines+and+retrieval+systems.;Implementing+Clean+Architecture%2C+DDD%2C+and+SOLID+principles.;Orchestrating+high-concurrency+backend+services+in+Go+and+Java.;Developing+low-level+systems+and+high-performance+engines.;Optimizing+ensemble+models+for+competitive+machine+learning.;Structuring+robust+relational+and+NoSQL+database+topologies.;Optimizing+parallel+computing+workflows+and+GPU+memory+management.;Synthesizing+data+through+probabilistic+diffusion+models.)](https://git.io/typing-svg)
 
 <br />
 
@@ -36,35 +36,34 @@
 
 <br />
 
-<table>
-  <tr>
-    <td width="62%" valign="top">
+<div align="center">
 
 ## `whoami`
 
-I am **Emanuel Lázaro**, a **Full-Stack Software Engineer**, **Data Scientist**, and **AI/ML Engineer** based in **Ceará, Brazil**.
+</div>
 
-I design and implement software across the full product lifecycle: user interfaces, backend services, API platforms, data workflows, cloud infrastructure, and applied machine learning systems. My current academic path combines **Software Engineering** and **Computer Science** studies from **2025 to 2029**, with a strong focus on production-grade engineering practices.
+I am **Emanuel Lázaro**, a **Full-Stack Software Engineer**, **Data Scientist**, and **AI/ML Engineer** based in **Ceará, Brazil**. Operating across the full product lifecycle, I design and implement reliable software systems, encompassing user interfaces, backend services, API platforms, data workflows, cloud infrastructure, and applied machine learning systems.
 
-GitHub is my public engineering workspace: a place for full-stack applications, backend architecture, data science work, ML experiments, infrastructure patterns, technical studies, and long-term learning.
+My architectural decisions are strictly guided by Clean Architecture, Domain-Driven Design (DDD), and SOLID principles, ensuring explicit domain boundaries and testable application services. I build scalable backend architectures utilizing TypeScript, Python, Go, and Java, supported by robust SQL and NoSQL data models, and deploy them through automated CI/CD pipelines to guarantee runtime resilience. In the data and artificial intelligence domains, my technical scope includes advanced feature engineering, deep learning experimentation, and the rigorous evaluation of NLP and computer vision models.
 
-</td>
-<td width="38%" valign="top">
+Beyond high-level application development, I actively explore low-level systems, memory models, concurrency, and rendering concepts utilizing C, C++, Rust, and C#. Concurrently, my academic trajectory combines **Software Engineering** and **Computer Science** (2025–2029), reinforcing a continuous focus on bridging theoretical rigor with production-grade engineering practices.
 
-## Command Center
-
-| Area | Current Direction |
-|---|---|
-| **Core Role** | Full-Stack Software Engineering |
-| **Secondary Axis** | Data Science · AI/ML Engineering |
-| **Primary Output** | Reliable products, APIs, and data-driven systems |
-| **Engineering Style** | Clean boundaries, explicit contracts, measurable quality |
-| **Career Status** | Internship and junior engineering opportunities |
-| **Location** | Ceará, Brazil 🇧🇷 |
-
-</td>
-</tr>
-</table>
+```yaml
+# system_profile.yaml
+core_role: "Full-Stack Software Engineering"
+expanded_domains: 
+  - "Data Science & Applied ML"
+  - "Cloud & Platform Engineering"
+  - "Low-Level Systems Exploration"
+primary_output: "Scalable architectures, resilient APIs, and production-grade ML workflows"
+architectural_principles:
+  - "Clean Architecture"
+  - "Domain-Driven Design (DDD)"
+  - "SOLID"
+engineering_style: "Explicit contracts, observable systems, and measurable quality"
+career_status: "Internship and Junior Engineering opportunities"
+location: "Ceará, Brazil 🇧🇷"
+```
 
 <br />
 
