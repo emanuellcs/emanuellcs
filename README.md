@@ -1,464 +1,580 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f2027,40:00bfa5,100:0f2027&text=Emanuel%20Lázaro&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Data%20Scientist%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=17&animation=fadeIn&stroke=00bfa5&strokeWidth=1)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=310&color=0:020617,35:0F172A,65:00BFA5,100:020617&text=Emanuel%20L%C3%A1zaro&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20AI%2FML%20Engineer&descAlignY=58&descSize=18&animation=fadeIn&stroke=00BFA5&strokeWidth=1" alt="Header banner: Emanuel Lázaro" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1000&color=00BFA5&center=true&vCenter=true&width=980&lines=Full-Stack+%26+Backend+Engineer.;Data+Scientist+%26+ML+Engineer.;TypeScript,+Java,+Python+%26+Go+developer.;Spring+Boot,+NestJS+%26+React+practitioner.;Cloud-Native+systems+builder.;Clean+Architecture+%26+DDD+advocate.;WebGL,+WebGPU+%26+3D+Graphics+enthusiast.;DevOps+%26+Infrastructure+(AWS,+Docker,+K8s).;Database+specialist+(SQL,+NoSQL,+Redis).;AI%2FML+practitioner+(PyTorch,+TensorFlow).;Systems+%26+Low-Level+enthusiast+(Rust,+C%2B%2B,+C).;Building+scalable,+distributed+architectures.;Crafting+high-performance+REST+%26+gRPC+APIs.;Passionate+about+observability+and+system+resilience.;Exploring+the+bleeding+edge+of+web+technologies.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00BFA5&center=true&vCenter=true&width=1000&lines=Engineering+reliable+software+systems.;Designing+clean+APIs%2C+interfaces%2C+and+data+workflows.;Building+across+frontend%2C+backend%2C+cloud%2C+and+AI%2FML.;Transforming+complex+requirements+into+maintainable+architecture.)](https://git.io/typing-svg)
 
-<br/>
+<br />
 
-<p align="center">
-  <a href="https://emanuellcs.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=google-chrome&logoColor=00bfa5&labelColor=0f2027" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/emanuellcs" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://www.kaggle.com/emanuellcs" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-  &nbsp;
-  <a href="https://huggingface.co/emanuellcs" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827" alt="Hugging Face"/>
-  </a>
-  &nbsp;
-  <a href="https://gitlab.com/emanuellcs" target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  </a>
-  &nbsp;
-  <a href="mailto:emanuellzr01@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
-  </a>
+<a href="https://emanuellcs.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=00BFA5&labelColor=020617" alt="Portfolio" />
+</a>
+<a href="https://linkedin.com/in/emanuellcs" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.kaggle.com/emanuellcs" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+</a>
+<a href="https://huggingface.co/emanuellcs" target="_blank">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827" alt="Hugging Face" />
+</a>
+<a href="https://gitlab.com/emanuellcs" target="_blank">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+</a>
+<a href="mailto:emanuellzr01@outlook.com">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+</a>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=emanuellcs&style=for-the-badge&color=00BFA5&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/emanuellcs?style=for-the-badge&logo=github&label=Followers&color=00BFA5&labelColor=020617" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/emanuellcs?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars&color=00BFA5&labelColor=020617" alt="GitHub stars" />
+<img src="https://img.shields.io/badge/Open%20to-Internship%20%26%20Junior%20Roles-00BFA5?style=for-the-badge&labelColor=020617" alt="Open to internship and junior roles" />
+
+</div>
+
+<br />
+
+<table>
+  <tr>
+    <td width="62%" valign="top">
+
+## `whoami`
+
+I am **Emanuel Lázaro**, a **Full-Stack Software Engineer**, **Data Scientist**, and **AI/ML Engineer** based in **Ceará, Brazil**.
+
+I design and implement software across the full product lifecycle: user interfaces, backend services, API platforms, data workflows, cloud infrastructure, and applied machine learning systems. My current academic path combines **Software Engineering** and **Computer Science** studies from **2025 to 2029**, with a strong focus on production-grade engineering practices.
+
+GitHub is my public engineering workspace: a place for full-stack applications, backend architecture, data science work, ML experiments, infrastructure patterns, technical studies, and long-term learning.
+
+</td>
+<td width="38%" valign="top">
+
+## Command Center
+
+| Area | Current Direction |
+|---|---|
+| **Core Role** | Full-Stack Software Engineering |
+| **Secondary Axis** | Data Science · AI/ML Engineering |
+| **Primary Output** | Reliable products, APIs, and data-driven systems |
+| **Engineering Style** | Clean boundaries, explicit contracts, measurable quality |
+| **Career Status** | Internship and junior engineering opportunities |
+| **Location** | Ceará, Brazil 🇧🇷 |
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<div align="center">
+
+## Engineering Compass
+
+</div>
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/01-Full--Stack%20Product%20Engineering-00BFA5?style=for-the-badge&labelColor=020617" alt="Full-stack product engineering" />
+      <br /><br />
+      Interfaces, dashboards, authenticated applications, server-side rendering, mobile clients, and product-oriented UX flows.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/02-Backend%20Architecture-00BFA5?style=for-the-badge&labelColor=020617" alt="Backend architecture" />
+      <br /><br />
+      APIs, service layers, domain modeling, authentication, messaging, caching, observability, and integration boundaries.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/03-Data%20%26%20AI%2FML-00BFA5?style=for-the-badge&labelColor=020617" alt="Data and AI/ML" />
+      <br /><br />
+      Data cleaning, feature engineering, model experimentation, notebooks, applied machine learning, NLP, and computer vision.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/04-Cloud%20%26%20Reliability-00BFA5?style=for-the-badge&labelColor=020617" alt="Cloud and reliability" />
+      <br /><br />
+      Containers, CI/CD, infrastructure automation, cloud services, deployment pipelines, monitoring, and runtime resilience.
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+## Technology Galaxy
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,next,vue,vite,tailwind,nodejs,nestjs,java,spring,python,go,fastapi,docker,kubernetes,aws,gcp,azure,postgres,mysql,mongodb,redis,kafka,terraform,githubactions,pytorch,tensorflow,git,linux,cpp,cs,rust" alt="Technology icons" />
+
+<br /><br />
+
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### Frontend, Mobile & Interface Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827" alt="React" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=emanuellcs&color=00bfa5&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+- Component-driven interfaces with reusable UI patterns.
+- SPA, SSR, routing, forms, state management, and API integration.
+- Responsive layouts, accessibility-aware structure, and modern frontend tooling.
+- Mobile-oriented application development with **React Native**.
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-<br/>
+### Backend, APIs & Service Architecture
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=grpc&logoColor=white" alt="gRPC" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
+</p>
 
-## 👨‍💻 About Me
+- REST, GraphQL, gRPC, WebSocket, and event-oriented backends.
+- Authentication, authorization, validation, error contracts, and versioned APIs.
+- Modular service layers with domain-first boundaries and testable units.
+- Frameworks treated as delivery mechanisms, not the center of the architecture.
 
-</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+### Data, AI/ML & Analytical Workflows
 
-I am a **Software Engineering & Computer Science** double-degree student **(2025–2029)** based in Brazil, building production-grade systems across the full stack with an engineering-first mindset.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=111827" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
+</p>
 
-My primary ecosystems are:
+- Exploratory data analysis, preprocessing, and feature engineering.
+- Deep learning experimentation with PyTorch and TensorFlow.
+- NLP and computer vision fundamentals with deployment-oriented thinking.
+- Reproducible notebooks, clear metrics, and explainable model evaluation.
 
-- **TypeScript:** Node.js, React, Next.js, NestJS — modern web and APIs
-- **Java:** Spring Boot, Spring Cloud, JPA/Hibernate — enterprise backends
-- **Python & Go:** data workflows, ML, automation, and concurrency-critical services
+</td>
+<td width="50%" valign="top">
 
-Beyond my professional focus, I am a passionate hobbyist in **low-level systems and game engine development** using **C, C++, C#, and Rust** — exploring memory management, concurrency primitives, and real-time rendering with **WebGL, WebGPU, and WGSL**.
+### Cloud, DevOps & Platform Engineering
 
-I actively compete on **Kaggle**, publish models on **Hugging Face**, and pursue certifications in cloud-native technologies. Currently seeking **internship** and **junior engineering** opportunities to contribute to real systems and grow inside strong engineering teams.
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+</p>
 
-<br clear="right"/>
+- Containerized applications, reproducible environments, and deployment automation.
+- CI/CD pipelines with checks for formatting, tests, builds, and releases.
+- Infrastructure as code, environment configuration, and cloud-native runtime patterns.
+- Runtime monitoring, health checks, rollback paths, and operational discipline.
 
-```typescript
-const emanuellcs = {
-  name     : "Emanuel Lázaro",
-  pronouns : "he/him",
-  location : "Mucambo, Ceará, Brazil 🇧🇷",
-  education: "Software Engineering & Computer Science (2025–2029)",
+</td>
+</tr>
+</table>
 
-  github: {
-    purpose : "Central hub for everything I build",
-    contains: [
-      "Production-grade full-stack applications",
-      "Enterprise Java / Spring Boot backends",
-      "Cloud-native & DevOps infrastructure",
-      "AI/ML experiments & Kaggle workflows",
-      "Low-level systems, game engines (C, C++, C#, Rust) & Real-time rendering (WebGPU/WGSL)",
-    ],
-  },
-
-  gitlab: {
-    purpose : "External open-source contributions & community initiatives",
-    contains: [
-      "Contributions to third-party open-source projects",
-      "Community-driven collaborative work",
-    ],
-  },
-
-  stacks: {
-    typescript : ["Node.js", "NestJS", "React", "Next.js", "Express.js"],
-    java       : ["Spring Boot", "Spring Cloud", "Hibernate/JPA", "Spring Security"],
-    python     : ["FastAPI", "PyTorch", "TensorFlow", "Pandas", "NumPy"],
-    go         : ["Gin", "gRPC", "Concurrency Patterns"],
-    lowLevel   : ["C", "C++", "C#", "Rust"],
-  },
-
-  principles : ["Clean Architecture", "Domain-Driven Design", "SOLID", "TDD"],
-  status     : "Open to Internship & Junior Engineering roles",
-};
-```
-
-<br/>
-
-<div align="center">
-
-## 🏛️ Engineering Philosophy
-
-</div>
-
-I build software guided by a consistent set of principles that prioritize long-term correctness over short-term convenience.
-
-**Clean Architecture** — every module has explicit boundaries, with business rules isolated from infrastructure and frameworks, keeping the core testable and framework-agnostic.
-
-**Domain-Driven Design (DDD)** — ubiquitous language, bounded contexts, and rich domain models ensure that the code communicates intent and mirrors the business problem faithfully.
-
-**SOLID** — cohesive, single-purpose units with stable, dependency-inverted contracts reduce coupling and make change safe and predictable.
-
-**Test-Driven Development** — test-first thinking with JUnit 5 + Mockito (Java) and Jest/Vitest (TypeScript) ensures correctness is never an afterthought.
-
-**Systems thinking** — failure modes, backpressure, caching strategy, and event-driven decomposition are first-class design concerns, not retrofit solutions.
-
-### ⚙️ Engineering Checklist — Quality, Security & Delivery
-
-**API Design**
-- [x] Versioning strategy, input validation, standardized error contracts
-- [x] Rate limiting, throttling, and observability via structured logging and distributed tracing
-
-**Performance**
-- [x] Profiling hot paths, pragmatic multi-layer caching, index optimization
-- [x] Async processing via Kafka / RabbitMQ for long-running operations
-
-**Security**
-- [x] Least-privilege design; secrets managed via Vault or AWS Secrets Manager
-- [x] OWASP Top 10 awareness; JWT/OAuth2 with Spring Security or Passport.js
-
-**Delivery**
-- [x] CI/CD via GitHub Actions; containerized runtimes; reproducible environments
-- [x] Semantic versioning, rollback strategies, and Kubernetes health probes
-
-<br/>
+---
 
 <div align="center">
 
-## 🗺️ Reference Architecture
+## Technical Domain Matrix
+
+</div>
+
+| Domain | Problems I Work On | Technologies & Practices |
+|---|---|---|
+| **Frontend Engineering** | Product interfaces, dashboards, responsive applications, UI architecture | React, React Native, Vue, Next.js, TypeScript, Tailwind CSS, Vite |
+| **Backend Engineering** | APIs, service layers, authentication, domain workflows, integrations | Node.js, NestJS, Spring Boot, FastAPI, Go, REST, GraphQL, gRPC |
+| **Distributed Systems** | Messaging, caching, async workflows, resilience, service boundaries | Kafka, RabbitMQ, Redis, Docker, Kubernetes, observability concepts |
+| **Data Engineering** | Data cleaning, analytical pipelines, feature workflows, SQL modeling | Python, Pandas, NumPy, PostgreSQL, MySQL, MongoDB, notebooks |
+| **Machine Learning** | Model experimentation, CV/NLP foundations, training/evaluation loops | PyTorch, TensorFlow, scikit-learn, Hugging Face, Kaggle |
+| **Cloud & DevOps** | CI/CD, container orchestration, infrastructure automation, runtime reliability | AWS, Azure, GCP, Terraform, GitHub Actions, Nginx |
+| **Systems Exploration** | Memory, concurrency, rendering, game-engine concepts, low-level design | C, C++, C#, Rust, WebGL, WebGPU, WGSL, Three.js |
+
+---
+
+<div align="center">
+
+## System Design Blueprint
 
 </div>
 
 ```mermaid
 flowchart LR
-  U[👤 Users] --> E[Edge / CDN]
-  E --> FE[Frontend\nNext.js / React]
-  FE --> GW[API Gateway]
+  U[Users / Clients] --> EDGE[Edge / CDN]
+  EDGE --> WEB[Web App\nReact / Vue / Next.js]
+  EDGE --> MOB[Mobile App\nReact Native]
 
-  GW --> STS[Service A\nNestJS / Node.js]
-  GW --> SJV[Service B\nSpring Boot / Java]
-  GW --> SGO[Service C\nGo / Python]
+  WEB --> GW[API Gateway]
+  MOB --> GW
 
-  STS --> DB1[(PostgreSQL)]
-  STS --> CA[(Redis Cache)]
-  SJV --> DB2[(MySQL / PostgreSQL)]
-  SJV --> MQ[📨 Kafka / RabbitMQ]
-  SGO --> DB3[(MongoDB)]
-  SGO --> ML[🤖 ML Inference]
+  GW --> AUTH[Auth & Identity]
+  GW --> API[Application APIs]
+  API --> DOM[Domain Services]
+  DOM --> DB[(SQL / NoSQL)]
+  DOM --> CACHE[(Redis Cache)]
+  DOM --> MQ[Kafka / RabbitMQ]
+  DOM --> EXT[External Integrations]
 
-  MQ --> STS
-  MQ --> SGO
+  MQ --> WORKERS[Async Workers]
+  WORKERS --> DATA[Data Pipelines]
+  DATA --> ML[ML Training / Inference]
+  ML --> API
 
-  CI[⚙️ CI/CD] --> REG[Container Registry]
-  REG --> K8s[☸️ Kubernetes]
-  K8s --> STS
-  K8s --> SJV
-  K8s --> SGO
+  CI[CI/CD] --> IMG[Container Images]
+  IMG --> K8S[Kubernetes / Cloud Runtime]
+  K8S --> OBS[Logs / Metrics / Traces]
+  OBS --> DOM
 ```
 
-<br/>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+
+### Architecture Priorities
+
+- Explicit domain boundaries.
+- Independent, testable application services.
+- Stable API contracts and predictable error responses.
+- Framework-agnostic core logic where practical.
+
+</td>
+<td width="33%" valign="top">
+
+### Reliability Priorities
+
+- Structured logs and meaningful metrics.
+- Timeouts, retries, and failure-aware integrations.
+- Queues for long-running or decoupled workflows.
+- Caching with clear consistency assumptions.
+
+</td>
+<td width="33%" valign="top">
+
+### Delivery Priorities
+
+- Automated checks before deployment.
+- Reproducible local and production environments.
+- Secure configuration and secret isolation.
+- Rollback-aware release strategy.
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-## 🛠️ Full Tech Stack
-
-### 💻 Languages
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<br/>
-
-### 🎨 Frontend Development
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111827)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-
-<br/>
-
-### ☕ Java / Spring Ecosystem
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-
-<br/>
-
-### ⚙️ Backend, APIs & Messaging
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Go Gin](https://img.shields.io/badge/Go_Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-<br/>
-
-### ☁️ Cloud, DevOps & Infrastructure
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-<br/>
-
-### 💾 Databases & Caching
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-<br/>
-
-### 🤖 AI / ML & Data Science
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-
-<br/>
-
-### 🦀 Hobby: Low-Level & Game Engine Development
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=111827)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=CE422B)
-![WebGPU](https://img.shields.io/badge/WebGPU-FF4500?style=for-the-badge&logo=webgl&logoColor=white)
-![WGSL](https://img.shields.io/badge/WGSL-4285F4?style=for-the-badge&logoColor=white)
-
-> Memory management, concurrency primitives, ECS patterns, and real-time rendering — explored as a passion outside my primary professional stack.
+## AI/ML Workflow Map
 
 </div>
 
-<br/>
-
-<div align="center">
-
-## 📋 Stack at a Glance
-
-| Domain | Primary Technologies | Notes |
-|:---|:---|:---|
-| **Frontend** | React, Next.js (SSR/ISR/RSC), WebGL | TypeScript, Tailwind CSS, Three.js |
-| **Backend (TS)** | NestJS, Express.js | REST, GraphQL, gRPC, WebSockets |
-| **Backend (Java)** | Spring Boot, Spring Cloud | JPA/Hibernate, Spring Security, Maven/Gradle |
-| **Messaging** | Apache Kafka, RabbitMQ | Event-driven, async workflows |
-| **Cloud & DevOps** | AWS, Azure, GCP | Docker, Kubernetes, Terraform, CI/CD |
-| **Databases** | PostgreSQL, MongoDB, Redis | Query optimization, caching, Elasticsearch |
-| **AI/ML** | PyTorch, TensorFlow, Hugging Face | Computer Vision, NLP, Kaggle competitions |
-| **Systems (Hobby)** | C, C++, C#, Rust | Game engines, renderers, low-level design |
-
-<br/>
-
-## ☕ Java & Spring Ecosystem — Deep Dive
-
-</div>
-
-<b>What I build with the Spring ecosystem</b>
-<br/>
-
-**Spring Boot**
-- REST API development with layered architecture (Controller → Service → Repository)
-- Dependency injection, auto-configuration, and profile-based environments
-- Global exception handling with `@ControllerAdvice` and standardized error responses
-
-**Spring Security**
-- JWT-based stateless authentication and role-based access control (RBAC)
-- OAuth2 integration and method-level security with `@PreAuthorize`
-
-**Spring Data JPA / Hibernate**
-- Entity modeling, complex relationships, and lifecycle management
-- Custom JPQL / native queries, pagination, N+1 prevention, and query optimization
-
-**Spring Cloud**
-- Service discovery (Eureka), API Gateway (Spring Cloud Gateway)
-- Circuit breaker patterns with Resilience4j
-- Distributed configuration with Spring Cloud Config
-
-**Testing**
-- Unit tests with JUnit 5 + Mockito
-- Integration tests with `@SpringBootTest` and Testcontainers
-
-```java
-@RestController
-@RequestMapping("/api/v1/projects")
-@RequiredArgsConstructor
-public class ProjectController {
-
-    private final ProjectService projectService;
-
-    @GetMapping("/{id}")
-    public ResponseEntity<ProjectDTO> findById(@PathVariable UUID id) {
-        return ResponseEntity.ok(projectService.findById(id));
-    }
-
-    @PostMapping
-    @PreAuthorize("hasRole('DEVELOPER')")
-    public ResponseEntity<ProjectDTO> create(@Valid @RequestBody CreateProjectRequest request) {
-        ProjectDTO created = projectService.create(request);
-        URI location = ServletUriComponentsBuilder.fromCurrentRequest()
-            .path("/{id}").buildAndExpand(created.id()).toUri();
-        return ResponseEntity.created(location).body(created);
-    }
-}
+```mermaid
+flowchart LR
+  A[Raw Data] --> B[Cleaning]
+  B --> C[Exploratory Analysis]
+  C --> D[Feature Engineering]
+  D --> E[Training]
+  E --> F[Validation]
+  F --> G[Experiment Tracking]
+  G --> H[Model Packaging]
+  H --> I[API / Batch Inference]
+  I --> J[Monitoring]
+  J --> C
 ```
 
-<br/>
+<table>
+  <tr>
+    <td width="25%" align="center"><strong>Data Quality</strong><br />Missing values, leakage checks, distributions, reproducibility.</td>
+    <td width="25%" align="center"><strong>Modeling</strong><br />Classical ML, deep learning, NLP, CV, metric-driven iteration.</td>
+    <td width="25%" align="center"><strong>Evaluation</strong><br />Validation strategy, baselines, error analysis, explainability.</td>
+    <td width="25%" align="center"><strong>Deployment Thinking</strong><br />Inference latency, API shape, batching, monitoring, drift awareness.</td>
+  </tr>
+</table>
+
+---
 
 <div align="center">
 
-## 🧠 AI / ML & Data Science
+## Engineering Operating System
 
 </div>
 
-I compete on **Kaggle** to benchmark models, stress-test feature engineering pipelines, and validate applied ML workflows against real-world data distributions.
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-**Technical focus areas:**
-- Training and fine-tuning Deep Learning models with **PyTorch** and **TensorFlow**
-- Mathematical foundations: linear algebra, multivariable calculus, probability, and statistics
-- Feature engineering and large-scale data processing with **Pandas** and **NumPy**
-- **Computer Vision** and **NLP** for unstructured problem domains
-- Fine-tuning and deploying models from **Hugging Face Hub**
-- Studying state-of-the-art architectures and modern training techniques
+### Build
 
-<br/>
+- Convert requirements into explicit domain models and workflows.
+- Prefer readable modules over clever abstractions.
+- Design APIs with clear contracts, validation, and failure semantics.
+- Keep transport, persistence, and framework concerns isolated from business logic.
+
+</td>
+<td width="50%" valign="top">
+
+### Validate
+
+- Test critical behavior, edge cases, and integration boundaries.
+- Profile before optimizing.
+- Review security assumptions early: inputs, auth, authorization, and secrets.
+- Define success metrics before declaring a system complete.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Scale
+
+- Add caching deliberately, with invalidation and consistency in mind.
+- Use queues and streams for decoupling and long-running workloads.
+- Keep service boundaries justified by ownership, deployment, and domain cohesion.
+- Monitor latency, throughput, saturation, error rates, and resource pressure.
+
+</td>
+<td width="50%" valign="top">
+
+### Deliver
+
+- Automate formatting, linting, tests, builds, and deployments.
+- Containerize applications for consistent environments.
+- Keep configuration environment-aware and secrets outside the codebase.
+- Document operational decisions for future maintainers.
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-## 📊 GitHub Statistics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuellcs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00bfa5&icon_color=00bfa5&text_color=c9d1d9&border_color=30363d" alt="GitHub Stats"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellcs&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0d1117&title_color=00bfa5&text_color=c9d1d9&border_color=30363d" alt="Top Languages"/>
+## Current Learning & Execution Tracks
 
 </div>
 
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Backend-Services%20%26%20Architecture-00BFA5?style=for-the-badge&labelColor=020617" alt="Backend" />
+      <br /><br />
+      APIs, service design, domain modeling, messaging, auth, and observability.
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Frontend-Web%20%26%20Mobile-00BFA5?style=for-the-badge&labelColor=020617" alt="Frontend" />
+      <br /><br />
+      React, Vue, Next.js, React Native, component architecture, and modern UI systems.
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Data-AI%20%26%20ML-00BFA5?style=for-the-badge&labelColor=020617" alt="AI and ML" />
+      <br /><br />
+      Kaggle workflows, PyTorch, TensorFlow, Hugging Face, NLP, CV, and evaluation.
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Cloud-DevOps%20%26%20Infra-00BFA5?style=for-the-badge&labelColor=020617" alt="Cloud" />
+      <br /><br />
+      Docker, Kubernetes, Terraform, cloud platforms, CI/CD, and deployment reliability.
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Systems-Low--Level%20%26%20Graphics-00BFA5?style=for-the-badge&labelColor=020617" alt="Systems" />
+      <br /><br />
+      Rust, C++, WebGPU, rendering concepts, concurrency, memory, and engine architecture.
+    </td>
+  </tr>
+</table>
+
+---
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=emanuellcs&theme=tokyonight&hide_border=true&background=0d1117&ring=00bfa5&fire=00bfa5&currStreakLabel=00bfa5&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=ffffff" alt="GitHub Streak"/>
+## GitHub Analytics
+
+<img height="180em" src="https://github-readme-stats-sooty-nu-61.vercel.app/api?username=emanuellcs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=020617&title_color=00BFA5&icon_color=00BFA5&text_color=C9D1D9" alt="GitHub stats" />
+<img height="180em" src="https://github-readme-stats-sooty-nu-61.vercel.app/api/top-langs/?username=emanuellcs&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00BFA5&text_color=C9D1D9" alt="Top languages" />
+
+<br /><br />
+
+<img src="https://streak-stats.demolab.com?user=emanuellcs&theme=tokyonight&hide_border=true&background=020617&ring=00BFA5&fire=00BFA5&currStreakLabel=00BFA5&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=FFFFFF" alt="GitHub streak" />
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=emanuellcs&theme=tokyo-night&hide_border=true&bg_color=020617&color=00BFA5&line=00BFA5&point=FFFFFF&area=true&area_color=00BFA5" alt="GitHub activity graph" />
+
+<br /><br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=emanuellcs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies" />
 
 </div>
 
+---
+
+<details>
+  <summary><strong>Engineering principles and quality checklist</strong></summary>
+
+<br />
+
+| Principle | Application |
+|---|---|
+| **Clean Architecture** | Business rules remain independent from frameworks, persistence, and transport details. |
+| **Domain-Driven Design** | The codebase reflects the problem domain through explicit language, bounded contexts, and useful abstractions. |
+| **SOLID Design** | Modules stay cohesive, dependencies stay controlled, and contracts stay explicit. |
+| **Testing Discipline** | Domain behavior, critical workflows, and integration boundaries receive automated coverage. |
+| **Security Awareness** | Inputs, authentication, authorization, secrets, and privileges are treated as design concerns. |
+| **Operational Thinking** | Logs, metrics, traces, health checks, latency, and failure modes are considered from the beginning. |
+
+<br />
+
+| Area | Checklist |
+|---|---|
+| **API Design** | Versioning, validation, pagination, idempotency, consistent response format, useful error models. |
+| **Data Modeling** | Entity boundaries, normalization where useful, indexing strategy, migration safety, transaction scope. |
+| **Security** | AuthN/AuthZ, secret management, least privilege, input validation, dependency awareness. |
+| **Performance** | Profiling, caching, query optimization, asynchronous processing, resource limits. |
+| **Reliability** | Retries, timeouts, circuit breakers, queue durability, graceful degradation. |
+| **Delivery** | CI/CD, reproducible builds, rollback strategy, release notes, environment configuration. |
+
+</details>
+
+<details>
+  <summary><strong>Professional profile in code</strong></summary>
+
+```typescript
+type EngineeringDomain =
+  | "frontend"
+  | "mobile"
+  | "backend"
+  | "data"
+  | "ai_ml"
+  | "cloud"
+  | "systems";
+
+const emanuel = {
+  name: "Emanuel Lázaro",
+  location: "Ceará, Brazil",
+  role: ["Full-Stack Software Engineer", "Data Scientist", "AI/ML Engineer"],
+  education: "Software Engineering + Computer Science, 2025–2029",
+  openTo: ["Internship", "Junior Engineering", "Open Source Collaboration"],
+  domains: [
+    "frontend",
+    "mobile",
+    "backend",
+    "data",
+    "ai_ml",
+    "cloud",
+    "systems",
+  ] satisfies EngineeringDomain[],
+  values: [
+    "clear architecture",
+    "maintainable code",
+    "observable systems",
+    "secure delivery",
+    "continuous learning",
+  ],
+};
+```
+
+</details>
+
+<details>
+  <summary><strong>Systems and low-level exploration</strong></summary>
+
+<br />
+
+Although my main professional direction is full-stack, backend, data, cloud, and AI/ML engineering, I also study lower-level computing topics as a way to understand performance, runtime behavior, and system internals.
+
+| Area | Focus |
+|---|---|
+| **C / C++ / Rust** | Memory models, ownership, concurrency, performance, and systems-level problem solving. |
+| **C#** | Application architecture, tooling, and game-development-oriented experimentation. |
+| **WebGL / WebGPU / WGSL** | Real-time rendering concepts, GPU pipelines, shaders, and graphics programming fundamentals. |
+| **Game Engine Concepts** | ECS patterns, rendering loops, asset handling, simulation, and engine architecture. |
+
+</details>
+
+---
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=emanuellcs&theme=tokyonight&no-frame=true&column=7&margin-w=6" alt="GitHub Trophies"/>
+## Collaboration Surface
 
 </div>
 
-<br/>
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>Internship / Junior Roles</h3>
+      <p>Full-stack, backend, cloud, data, and AI/ML engineering opportunities.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>Open Source</h3>
+      <p>Developer tooling, backend systems, learning resources, automation, and ML projects.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>Technical Growth</h3>
+      <p>System design, distributed architectures, cloud platforms, applied AI, and production-grade engineering.</p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-
-## 📈 Contribution Activity
-
-[![Emanuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=emanuellcs&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00bfa5&line=00bfa5&point=ffffff&area=true&area_color=00bfa5)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 💼 Open To Opportunities
-
-| Role | Focus Areas | What I Bring |
-|:---:|:---:|:---:|
-| **Internship / Junior Engineer** | Full-Stack · Backend (TS / Java) · Cloud | Engineering-first mindset, production-ready code |
-| **Open-Source Collaboration** | High-impact systems · Dev tooling | Clean architecture, DDD, test coverage |
-
-</div>
-
-> I am especially interested in teams that value **engineering craftsmanship**, **clear system design**, and **continuous learning** — whether in TypeScript, Java, Go, or Python-based stacks.
-
-<br/>
-
-<div align="center">
-
-## 📫 Let's Connect
 
 <a href="https://emanuellcs.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Site-00bfa5?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/View%20Portfolio-00BFA5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617" alt="View portfolio" />
 </a>
-&nbsp;
 <a href="https://linkedin.com/in/emanuellcs" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
-&nbsp;
 <a href="mailto:emanuellzr01@outlook.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://huggingface.co/emanuellcs" target="_blank">
-  <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Follow%20Me-FFD21E?style=for-the-badge&logoColor=111827" alt="Hugging Face"/>
-</a>
-&nbsp;
-<a href="https://www.kaggle.com/emanuellcs" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-Competitions-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-</a>
-&nbsp;
-<a href="https://gitlab.com/emanuellcs" target="_blank">
-  <img src="https://img.shields.io/badge/GitLab-Open%20Source-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+  <img src="https://img.shields.io/badge/Send%20Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Send email" />
 </a>
 
-<br/><br/>
+<br /><br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-<br/>
+<br /><br />
 
-*Building scalable systems with clean interfaces, robust backends, and measurable outcomes.*
+<strong>Building reliable software with clean interfaces, resilient infrastructure, and measurable engineering outcomes.</strong>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00bfa5,100:0f2027&height=140&section=footer)
+<br /><br />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:00BFA5,100:020617&height=140&section=footer" alt="Footer banner" />
 
 </div>
